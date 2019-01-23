@@ -2,7 +2,7 @@
 
 The New School for Social Research | Parsons | Art, Media, Technology
 
-![Parsons_Logo1_Large_RGB](/Parsons_Logo1_Large_RGB.jpg)
+![Parsons_Logo3_Large_RGB](/Parsons_Logo3_Large_RGB.jpg)
 
 ~~~~
 Jesse Seegers • seegersj@newschool.edu
