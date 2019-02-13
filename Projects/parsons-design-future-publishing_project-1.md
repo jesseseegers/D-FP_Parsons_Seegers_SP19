@@ -44,7 +44,7 @@ In this project, we will be reviving a literary work, whose copyright is now rec
     - Design Mockups using a wireframing/prototyping/design application, or with code/visual editor
     - **You *MUST* add an Editor's Note:** the circumstances you found the work in (original, already digitized/OCR'd?) what you've done to the work, how you've accomplished this and why (reasons could vary from the practical to the conceptual/poetic)
 - Schedule:
-    - Week 3: Announce & Introduce Project
-    - Week 5: 1st Draft Group Pin-Up
+    - Week 4: Announce & Introduce Project
+    - Week 5: Draft 1 small group critiques
     - Week 7: Draft 2 peer-to-peer review
-    - Week 8: Final file/link due (midterm)
+    - Week 8: Final file/link due (midterm) - Full class crit
