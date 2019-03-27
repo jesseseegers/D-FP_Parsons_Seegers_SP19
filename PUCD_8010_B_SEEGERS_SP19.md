@@ -236,28 +236,28 @@ Project 1: Draft 2 pin-up - one-on-one and peer-to-peer critiques
 
 ### Week 9: March 27
 
+Field Trip to Die Keure NY office
+- printing technique, paper stocks
+
+### Week 10: April 3
+
 What is a Brand?
+
+- Reading: [Jenny Odell, There’s no such thing as a free watch](http://www.jennyodell.com/museumofcapitalism_freewatch.pdf)
 
 - Exercises: 
   - Analyzing cross-platform content
   - Image, color, form: looking at brand books
-- Reading: [Jenny Odell, There’s no such thing as a free watch](http://www.jennyodell.com/museumofcapitalism_freewatch.pdf)
-
 - Introduce [Project 2](link), review Draft 1 guidelines
 
-
-
-### Week 10: April 3
-
 - Exercise: Cross-platform media publication analysis
-- Reading: Ludovico, Post-Digital Print, ch 4
 
   
 
 ### Week 11: April 10
 
+- Reading: Ludovico, Post-Digital Print, ch 4 & 5
 Project 2: Draft 1 pin-up - explain concept, group critiques
-
 * Exercise: Presentation practice: how to communicate an idea
 
 
@@ -265,8 +265,6 @@ Project 2: Draft 1 pin-up - explain concept, group critiques
 ### Week 12: April 17
 
 Lubalin Center Field Trip (Date TBC)
-
-
 - Reading: [Rasch, Miriam - State of the Art: The Phase of the Post-digital in Publishing](http://networkcultures.org/outofink/2017/06/28/state-of-the-art-the-phase-of-the-post-digital-in-publishing/)
 
 
